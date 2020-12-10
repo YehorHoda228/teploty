@@ -2,7 +2,7 @@
 //Autor:Yehor Hoda
 //05.12.2020
 
-#include "pch.h"
+//#include "pch.h"
 #include <cwchar>
 #include <stdio.h>
 #include <conio.h>
